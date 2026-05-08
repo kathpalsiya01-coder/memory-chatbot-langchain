@@ -89,9 +89,6 @@ Bot: Interesting choice. Another Python enthusiast joins the crowd.
 You: What is my favorite programming language?
 
 Bot: Python. Your memory may fail, mine unfortunately doesn't.
-```
-
----
 
 ## Memory Demonstration
 
